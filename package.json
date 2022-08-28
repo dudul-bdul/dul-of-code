@@ -1,5 +1,5 @@
 {
-	"name": "joy-of-code",
+	"name": "code",
 	"type": "module",
 	"scripts": {
 		"dev": "env-cmd vite dev --port 3000",
